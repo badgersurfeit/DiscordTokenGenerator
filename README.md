@@ -22,4 +22,3 @@ put your [CapMonster](https://capmonster.cloud) key and server invite code in da
 
 # DISCLAIMER
 
-## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
