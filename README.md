@@ -2,7 +2,10 @@
 # [WORKED] Discord-Token-Generator
 
 
-https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-b328-167cfa63be42.mp4
+
+https://github.com/puluxy32/DiscordTokenGenerator/assets/136595708/2f823f61-f0c4-46cd-83b6-94b5adc0bfa7
+
+
 
 
 # How to use
